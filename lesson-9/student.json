@@ -1,0 +1,28 @@
+{
+    "students": [
+        {
+            "name": "Alice",
+            "math": 85,
+            "science": 78,
+            "english": 92
+        },
+        {
+            "name": "Bob",
+            "math": 90,
+            "science": 88,
+            "english": 70
+        },
+        {
+            "name": "Charlie",
+            "math": 90,
+            "science": 95,
+            "english": 85
+        },
+        {
+            "name": "David",
+            "math": 50,
+            "science": 60,
+            "english": 55
+        }
+    ]
+}
